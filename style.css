@@ -1,0 +1,34 @@
+body{background-color: rgb(58, 27, 233);}
+
+
+.centralizar{
+
+    max-width: 660px;
+    margin: 0 auto;
+
+
+}
+
+.amarela{
+    background-color: yellow;
+    padding: 100px;
+    margin: 10px;
+    box-sizing: border-box;
+
+}
+
+.esticar{
+    padding-right: 320px;
+}
+
+.flex{
+
+    display: flex;
+}
+
+
+
+
+
+
+
